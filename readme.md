@@ -2,3 +2,4 @@
 
 ## section 1
 ### actual implement for the nlp
+#### Python version: 3.8
